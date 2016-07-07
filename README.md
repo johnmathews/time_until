@@ -2,7 +2,7 @@
 A widget for Übersicht to calculate the time until a date and time.
 
 #### Installation:
-[1. Download and install Übersicht](http://tracesof.net/uebersicht/)
+1. [Download and install Übersicht](http://tracesof.net/uebersicht/)
 2. Copy time_until.widget to your widgets folder
 
 #### Edit index.coffee to:
